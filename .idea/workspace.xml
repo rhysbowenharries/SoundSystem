@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac9a4976-a088-4f25-b918-64f1a2516815" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../week_01/day_3/optional_lab_array_hash_loop/arrays, hashes, and testing lab.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_01/day_3/optional_lab_array_hash_loop/start_point/my_functions.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_01/day_3/optional_lab_array_hash_loop/start_point/specs/my_functions_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_02/day_2/hw/solution/bear.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_02/day_2/hw/solution/bear.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_02/day_3/pub_lab/advanced_solution/customer.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_02/day_3/pub_lab/advanced_solution/customer.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_02/day_4/enumeration/lab/start_point/planet.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_02/day_4/enumeration/lab/start_point/specs/planet_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_02/day_4/enumeration/lab/start_point/specs/star_system_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_02/day_4/enumeration/lab/start_point/star_system.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_02/day_4/pry/pry_start_point/cake.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_02/day_4/pry/pry_start_point/cake_shop.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_02/day_4/pry/pry_start_point/specs/cake_shop_specs.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_02/day_4/pry/pry_start_point/specs/cake_specs.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_03/day_1/cinema_crud_sql_hw/homework.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_03/day_1/cinema_crud_sql_hw/marvel.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_03/day_4/imdb_lab/imdb_lab.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_03/day_4/imdb_lab/start_code/console.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_03/day_4/imdb_lab/start_code/db/imdb.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_03/day_4/imdb_lab/start_code/db/sql_runner.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_03/day_4/imdb_lab/start_code/models/casting.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_03/day_4/imdb_lab/start_code/models/movie.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_03/day_4/imdb_lab/start_code/models/star.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_03/day_4/many_to_many_quest_advisor/quest_advisor_end/console.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_03/day_4/many_to_many_quest_advisor/quest_advisor_end/db/quest_advisor.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_03/day_4/many_to_many_quest_advisor/quest_advisor_end/db/sql_runner.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_03/day_4/many_to_many_quest_advisor/quest_advisor_end/models/location.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_03/day_4/many_to_many_quest_advisor/quest_advisor_end/models/user.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_03/day_4/many_to_many_quest_advisor/quest_advisor_end/models/visit.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_03/day_4/many_to_many_quest_advisor/quest_advisor_start/console.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_03/day_4/many_to_many_quest_advisor/quest_advisor_start/db/quest_advisor.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_03/day_4/many_to_many_quest_advisor/quest_advisor_start/db/sql_runner.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_03/day_4/many_to_many_quest_advisor/quest_advisor_start/models/location.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_03/day_4/many_to_many_quest_advisor/quest_advisor_start/models/user.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_03/day_4/many_to_many_quest_advisor/quest_advisor_start/models/visit.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_2/sinatra_calc/sinatra_calc-u-l8r.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_2/sinatra_calc/sinatra_calc_start/models/calculator.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_2/sinatra_calc/sinatra_calc_start/specs/calculator_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_3/hogwarts_lab/hogwarts_lab_end/public/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_04/day_3/hogwarts_lab/hogwarts_lab_end/public/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_3/hogwarts_lab/hogwarts_lab_end/views/layout.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_04/day_3/hogwarts_lab/hogwarts_lab_end/views/layout.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_3/restful_pizza_shop/restful_pizza_shop_end/db/pizza_shop.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_3/restful_pizza_shop/restful_pizza_shop_end/db/seeds.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_3/restful_pizza_shop/restful_pizza_shop_end/db/sql_runner.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_3/restful_pizza_shop/restful_pizza_shop_end/models/pizza_order.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_3/restful_pizza_shop/restful_pizza_shop_end/models/specs/pizza_order_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_3/restful_pizza_shop/restful_pizza_shop_end/pizza_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_3/restful_pizza_shop/restful_pizza_shop_end/views/create.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_3/restful_pizza_shop/restful_pizza_shop_end/views/edit.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_3/restful_pizza_shop/restful_pizza_shop_end/views/index.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_3/restful_pizza_shop/restful_pizza_shop_end/views/layout.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_3/restful_pizza_shop/restful_pizza_shop_end/views/new.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_3/restful_pizza_shop/restful_pizza_shop_end/views/show.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_3/restful_pizza_shop/restful_pizza_shop_start/db/pizza_shop.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_3/restful_pizza_shop/restful_pizza_shop_start/db/seeds.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_3/restful_pizza_shop/restful_pizza_shop_start/db/sql_runner.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_3/restful_pizza_shop/restful_pizza_shop_start/models/pizza_order.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_3/restful_pizza_shop/restful_pizza_shop_start/models/specs/pizza_order_spec.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_3/restful_pizza_shop/restful_pizza_shop_start/pizza_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_3/restful_pizza_shop/restful_pizza_shop_start/views/layout.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_4/many_to_many_sinatra_zombies/many_to_many_sinatra_zombies_start/app.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_4/many_to_many_sinatra_zombies/many_to_many_sinatra_zombies_start/controllers/bitings_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_4/many_to_many_sinatra_zombies/many_to_many_sinatra_zombies_start/controllers/victims_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_4/many_to_many_sinatra_zombies/many_to_many_sinatra_zombies_start/controllers/zombies_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_4/many_to_many_sinatra_zombies/many_to_many_sinatra_zombies_start/db/seeds.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_4/many_to_many_sinatra_zombies/many_to_many_sinatra_zombies_start/db/sql_runner.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_4/many_to_many_sinatra_zombies/many_to_many_sinatra_zombies_start/db/zombies.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_4/many_to_many_sinatra_zombies/many_to_many_sinatra_zombies_start/models/action.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_4/many_to_many_sinatra_zombies/many_to_many_sinatra_zombies_start/models/biting.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_4/many_to_many_sinatra_zombies/many_to_many_sinatra_zombies_start/models/victim.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_4/many_to_many_sinatra_zombies/many_to_many_sinatra_zombies_start/models/zombie.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_4/many_to_many_sinatra_zombies/many_to_many_sinatra_zombies_start/public/images/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_4/many_to_many_sinatra_zombies/many_to_many_sinatra_zombies_start/public/images/hazard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_4/many_to_many_sinatra_zombies/many_to_many_sinatra_zombies_start/public/images/zombies.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_4/many_to_many_sinatra_zombies/many_to_many_sinatra_zombies_start/public/styles/buttons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_4/many_to_many_sinatra_zombies/many_to_many_sinatra_zombies_start/public/styles/forms.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_4/many_to_many_sinatra_zombies/many_to_many_sinatra_zombies_start/public/styles/structure.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_4/many_to_many_sinatra_zombies/many_to_many_sinatra_zombies_start/public/styles/tables.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_4/many_to_many_sinatra_zombies/many_to_many_sinatra_zombies_start/views/bitings/index.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_4/many_to_many_sinatra_zombies/many_to_many_sinatra_zombies_start/views/bitings/new.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_4/many_to_many_sinatra_zombies/many_to_many_sinatra_zombies_start/views/index.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_4/many_to_many_sinatra_zombies/many_to_many_sinatra_zombies_start/views/layout.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_4/many_to_many_sinatra_zombies/many_to_many_sinatra_zombies_start/views/victims/index.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_4/many_to_many_sinatra_zombies/many_to_many_sinatra_zombies_start/views/victims/show.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_4/many_to_many_sinatra_zombies/many_to_many_sinatra_zombies_start/views/zombies/index.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_4/many_to_many_sinatra_zombies/many_to_many_sinatra_zombies_start/views/zombies/show.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_4/many_to_many_sinatra_zombies/ui_prototypes/Bitings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_4/many_to_many_sinatra_zombies/ui_prototypes/MainPage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_4/many_to_many_sinatra_zombies/ui_prototypes/NewBiting.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_4/many_to_many_sinatra_zombies/ui_prototypes/Victims.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_4/many_to_many_sinatra_zombies/ui_prototypes/Zombies.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_04/day_4/many_to_many_sinatra_zombies/zombieland_brief.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_05/PDA_Static_and_Dynamic_Task_A/Static_&amp;_Dynamic_Testing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_05/PDA_Static_and_Dynamic_Task_A/task_2/card.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_05/PDA_Static_and_Dynamic_Task_A/task_2/card_game.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_05/PDA_Static_and_Dynamic_Task_A/testing_task_1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_1/fundamentals.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_1/js_node_intro/diagrams_src/request_response_cycle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_1/js_node_intro/images/request_response_cycle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_1/js_node_intro/js_node_intro.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_1/objects_arrays_loops/arrays_objects_movies_task_start.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_1/objects_arrays_loops/objects_arrays_loops.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_2/hw_tdd_jurrasic_park/hw_tdd_jurassic_park.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_2/hw_tdd_jurrasic_park/hw_tdd_jurassic_park_start/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_2/hw_tdd_jurrasic_park/hw_tdd_jurassic_park_start/models/dinosaur.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_2/hw_tdd_jurrasic_park/hw_tdd_jurassic_park_start/models/park.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_2/hw_tdd_jurrasic_park/hw_tdd_jurassic_park_start/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_2/hw_tdd_jurrasic_park/hw_tdd_jurassic_park_start/specs/dinosaur_spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_2/hw_tdd_jurrasic_park/hw_tdd_jurassic_park_start/specs/park_spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_3/hw_enumeration_traveller/hw_enumeration_traveller_brief.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_3/hw_enumeration_traveller/hw_enumeration_traveller_start/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_3/hw_enumeration_traveller/hw_enumeration_traveller_start/models/journey.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_3/hw_enumeration_traveller/hw_enumeration_traveller_start/models/traveller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_3/hw_enumeration_traveller/hw_enumeration_traveller_start/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_3/hw_enumeration_traveller/hw_enumeration_traveller_start/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_3/hw_enumeration_traveller/hw_enumeration_traveller_start/specs/journey_spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_3/hw_enumeration_traveller/hw_enumeration_traveller_start/specs/traveller_spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_3/lab_enumeration_callbacks_films/lab_enumeration_callbacks_films.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_3/lab_enumeration_callbacks_films/lab_enumeration_callbacks_films_start/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_3/lab_enumeration_callbacks_films/lab_enumeration_callbacks_films_start/models/cinema.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_3/lab_enumeration_callbacks_films/lab_enumeration_callbacks_films_start/models/film.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_3/lab_enumeration_callbacks_films/lab_enumeration_callbacks_films_start/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_3/lab_enumeration_callbacks_films/lab_enumeration_callbacks_films_start/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_3/lab_enumeration_callbacks_films/lab_enumeration_callbacks_films_start/specs/cinema_spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_3/lab_enumeration_callbacks_films/lab_enumeration_callbacks_films_start/specs/film_spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_4/dom/dom_intro_start/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_4/dom/dom_intro_start/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_4/dom/dom_intro_start/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_4/events/events.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_4/events/events_start/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_4/events/events_start/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_4/events/events_start/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_5/advanced_devtools/advanced_devtools_start/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_06/day_5/advanced_devtools/advanced_devtools_start/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_5/weekend_hw_dom_context/hw_context/hw_context.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_06/day_5/weekend_hw_dom_context/hw_dom/weekend_hw_dom.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_1/hw_pubsub_prime_checker/hw_pubsub_prime_checker_start/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_1/hw_pubsub_prime_checker/hw_pubsub_prime_checker_start/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_1/hw_pubsub_prime_checker/hw_pubsub_prime_checker_start/public/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_1/hw_pubsub_prime_checker/hw_pubsub_prime_checker_start/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_1/hw_pubsub_prime_checker/hw_pubsub_prime_checker_start/src/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_1/pubsub_intro/pubsub_intro_start/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_1/pubsub_intro/pubsub_intro_start/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_1/pubsub_intro/pubsub_intro_start/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_1/pubsub_intro/pubsub_intro_start/public/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_1/pubsub_intro/pubsub_intro_start/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_1/pubsub_intro/pubsub_intro_start/src/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_1/pubsub_intro/pubsub_intro_start/src/helpers/pub_sub.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_1/pubsub_intro/pubsub_intro_start/src/models/word_counter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_1/pubsub_intro/pubsub_intro_start/src/views/form_view.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_1/pubsub_intro/pubsub_intro_start/src/views/result_view.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_1/pubsub_intro/pubsub_intro_start/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/hw_pubsub_instruments/hw_pubsub_instruments.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/hw_pubsub_instruments/hw_pubsub_instruments_end/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week_07/day_2/hw_pubsub_instruments/hw_pubsub_instruments_end/src/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/hw_pubsub_instruments/hw_pubsub_instruments_start/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/hw_pubsub_instruments/hw_pubsub_instruments_start/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/hw_pubsub_instruments/hw_pubsub_instruments_start/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/hw_pubsub_instruments/hw_pubsub_instruments_start/public/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/hw_pubsub_instruments/hw_pubsub_instruments_start/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/hw_pubsub_instruments/hw_pubsub_instruments_start/src/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/hw_pubsub_instruments/hw_pubsub_instruments_start/src/data/instrument_family_data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/hw_pubsub_instruments/hw_pubsub_instruments_start/src/models/instrument_families.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/hw_pubsub_instruments/hw_pubsub_instruments_start/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/hw_pubsub_instruments/images/instrument_families_screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/lab_modular_frontend_pubsub_animals/diagrams_source/mvc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/lab_modular_frontend_pubsub_animals/diagrams_source/pubsub.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/lab_modular_frontend_pubsub_animals/diagrams_source/pubsub_animals_architecture.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/lab_modular_frontend_pubsub_animals/diagrams_source/pubsub_animals_data_flow_diagram.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/lab_modular_frontend_pubsub_animals/example_app_fastest_animals/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/lab_modular_frontend_pubsub_animals/example_app_fastest_animals/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/lab_modular_frontend_pubsub_animals/example_app_fastest_animals/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/lab_modular_frontend_pubsub_animals/example_app_fastest_animals/public/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/lab_modular_frontend_pubsub_animals/example_app_fastest_animals/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/lab_modular_frontend_pubsub_animals/example_app_fastest_animals/src/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/lab_modular_frontend_pubsub_animals/example_app_fastest_animals/src/helpers/pub_sub.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/lab_modular_frontend_pubsub_animals/example_app_fastest_animals/src/models/animals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/lab_modular_frontend_pubsub_animals/example_app_fastest_animals/src/views/animal_info_view.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/lab_modular_frontend_pubsub_animals/example_app_fastest_animals/src/views/select_view.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/lab_modular_frontend_pubsub_animals/example_app_fastest_animals/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/lab_modular_frontend_pubsub_animals/images/10_fastest_animals.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/lab_modular_frontend_pubsub_animals/lab_modular_frontend_pubsub.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/lab_pubsub_planets/images/planets_screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/lab_pubsub_planets/lab_pubsub_planets.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/lab_pubsub_planets/lab_pubsub_planets_start/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/lab_pubsub_planets/lab_pubsub_planets_start/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/lab_pubsub_planets/lab_pubsub_planets_start/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/lab_pubsub_planets/lab_pubsub_planets_start/public/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/lab_pubsub_planets/lab_pubsub_planets_start/public/images/earth.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/lab_pubsub_planets/lab_pubsub_planets_start/public/images/jupiter.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/lab_pubsub_planets/lab_pubsub_planets_start/public/images/mars.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/lab_pubsub_planets/lab_pubsub_planets_start/public/images/mercury.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/lab_pubsub_planets/lab_pubsub_planets_start/public/images/neptune.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/lab_pubsub_planets/lab_pubsub_planets_start/public/images/saturn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/lab_pubsub_planets/lab_pubsub_planets_start/public/images/uranus.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/lab_pubsub_planets/lab_pubsub_planets_start/public/images/venus.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/lab_pubsub_planets/lab_pubsub_planets_start/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/lab_pubsub_planets/lab_pubsub_planets_start/src/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/lab_pubsub_planets/lab_pubsub_planets_start/src/data/planets.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/lab_pubsub_planets/lab_pubsub_planets_start/src/helpers/pub_sub.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/lab_pubsub_planets/lab_pubsub_planets_start/src/models/solar_system.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_2/lab_pubsub_planets/lab_pubsub_planets_start/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/hw_pubsub_nested_reusable_views/example_app_continents_of_the_world/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/hw_pubsub_nested_reusable_views/example_app_continents_of_the_world/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/hw_pubsub_nested_reusable_views/example_app_continents_of_the_world/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/hw_pubsub_nested_reusable_views/example_app_continents_of_the_world/public/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/hw_pubsub_nested_reusable_views/example_app_continents_of_the_world/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/hw_pubsub_nested_reusable_views/example_app_continents_of_the_world/src/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/hw_pubsub_nested_reusable_views/example_app_continents_of_the_world/src/helpers/pub_sub.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/hw_pubsub_nested_reusable_views/example_app_continents_of_the_world/src/helpers/request_helper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/hw_pubsub_nested_reusable_views/example_app_continents_of_the_world/src/models/continents.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/hw_pubsub_nested_reusable_views/example_app_continents_of_the_world/src/views/continent_view.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/hw_pubsub_nested_reusable_views/example_app_continents_of_the_world/src/views/continents_list_view.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/hw_pubsub_nested_reusable_views/example_app_continents_of_the_world/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/hw_pubsub_nested_reusable_views/hw_pubsub_nested_reusable_views.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/hw_pubsub_nested_reusable_views/images/nested_views.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/hw_pubsub_nested_reusable_views/images/reusable_views_weather.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/hw_pubsub_nested_reusable_views/images/view_render_responsibilties_weather.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/lab_pubsub_requests_countries/images/application_screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/lab_pubsub_requests_countries/lab_requests_countries.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/lab_pubsub_requests_countries/lab_requests_countries_end/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/lab_pubsub_requests_countries/lab_requests_countries_end/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/lab_pubsub_requests_countries/lab_requests_countries_end/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/lab_pubsub_requests_countries/lab_requests_countries_end/public/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/lab_pubsub_requests_countries/lab_requests_countries_end/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/lab_pubsub_requests_countries/lab_requests_countries_end/src/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/lab_pubsub_requests_countries/lab_requests_countries_end/src/helpers/pub_sub.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/lab_pubsub_requests_countries/lab_requests_countries_end/src/helpers/request_helper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/lab_pubsub_requests_countries/lab_requests_countries_end/src/models/countries.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/lab_pubsub_requests_countries/lab_requests_countries_end/src/views/country_view.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/lab_pubsub_requests_countries/lab_requests_countries_end/src/views/select_view.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/lab_pubsub_requests_countries/lab_requests_countries_end/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/lab_pubsub_requests_countries/lab_requests_countries_start/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/lab_pubsub_requests_countries/lab_requests_countries_start/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/lab_pubsub_requests_countries/lab_requests_countries_start/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/lab_pubsub_requests_countries/lab_requests_countries_start/public/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/lab_pubsub_requests_countries/lab_requests_countries_start/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/lab_pubsub_requests_countries/lab_requests_countries_start/src/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/lab_pubsub_requests_countries/lab_requests_countries_start/src/helpers/pub_sub.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/lab_pubsub_requests_countries/lab_requests_countries_start/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/requests/requests_end/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/requests/requests_end/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/requests/requests_end/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/requests/requests_end/public/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/requests/requests_end/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/requests/requests_end/src/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/requests/requests_end/src/helpers/pub_sub.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/requests/requests_end/src/helpers/request_helper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/requests/requests_end/src/models/joke.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/requests/requests_end/src/views/joke_view.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_07/day_3/requests/requests_end/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_08/day_1/express_rest_api_teas_biscuits/express_rest_api_teas_biscuits_start/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_08/day_1/express_rest_api_teas_biscuits/express_rest_api_teas_biscuits_start/client/public/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_08/day_1/express_rest_api_teas_biscuits/express_rest_api_teas_biscuits_start/client/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_08/day_1/express_rest_api_teas_biscuits/express_rest_api_teas_biscuits_start/client/src/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_08/day_1/express_rest_api_teas_biscuits/express_rest_api_teas_biscuits_start/client/src/helpers/pub_sub.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_08/day_1/express_rest_api_teas_biscuits/express_rest_api_teas_biscuits_start/client/src/helpers/request_helper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_08/day_1/express_rest_api_teas_biscuits/express_rest_api_teas_biscuits_start/client/src/models/consumables.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_08/day_1/express_rest_api_teas_biscuits/express_rest_api_teas_biscuits_start/client/src/views/form_view.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_08/day_1/express_rest_api_teas_biscuits/express_rest_api_teas_biscuits_start/client/src/views/list_view.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_08/day_1/express_rest_api_teas_biscuits/express_rest_api_teas_biscuits_start/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_08/day_1/express_rest_api_teas_biscuits/express_rest_api_teas_biscuits_start/server/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_08/day_1/express_rest_api_teas_biscuits/express_rest_api_teas_biscuits_start/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_3/w11_d3_lab_Hotel-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_3/w11_d3_lab_Hotel-master/Hotel.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_3/w11_d3_lab_Hotel-master/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_3/w11_d3_lab_Hotel-master/src/main/java/Bedroom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_3/w11_d3_lab_Hotel-master/src/main/java/ConferenceRoom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_3/w11_d3_lab_Hotel-master/src/main/java/Guest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_3/w11_d3_lab_Hotel-master/src/main/java/Hotel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_3/w11_d3_lab_Hotel-master/src/test/java/HotelTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_4/enums_lab/enums_lab_solution/.gradle/3.5-rc-2/file-changes/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_4/enums_lab/enums_lab_solution/.gradle/3.5-rc-2/taskHistory/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_4/enums_lab/enums_lab_solution/.gradle/3.5-rc-2/taskHistory/fileSnapshots.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_4/enums_lab/enums_lab_solution/.gradle/3.5-rc-2/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_4/enums_lab/enums_lab_solution/.gradle/3.5-rc-2/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_4/enums_lab/enums_lab_solution/.gradle/buildOutputCleanup/built.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_4/enums_lab/enums_lab_solution/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_4/enums_lab/enums_lab_solution/.gradle/buildOutputCleanup/cache.properties.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_4/enums_lab/enums_lab_solution/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_4/enums_lab/enums_lab_solution/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_4/enums_lab/enums_lab_solution/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_4/enums_lab/enums_lab_solution/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_4/enums_lab/enums_lab_solution/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_4/enums_lab/enums_lab_solution/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_4/enums_lab/enums_lab_solution/src/main/java/Card.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_4/enums_lab/enums_lab_solution/src/main/java/Dealer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_4/enums_lab/enums_lab_solution/src/main/java/Deck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_4/enums_lab/enums_lab_solution/src/main/java/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_4/enums_lab/enums_lab_solution/src/main/java/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_4/enums_lab/enums_lab_solution/src/main/java/Rank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_4/enums_lab/enums_lab_solution/src/main/java/Suit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_4/enums_lab/enums_lab_solution/src/test/java/CardTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_4/enums_lab/enums_lab_solution/src/test/java/DealerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_4/enums_lab/enums_lab_solution/src/test/java/DeckTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_4/enums_lab/enums_lab_solution/src/test/java/GameTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week_11/day_4/enums_lab/enums_lab_solution/src/test/java/PlayerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day_1/inheritance/inheritance_start_point/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day_1/inheritance/inheritance_start_point/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day_1/inheritance/inheritance_start_point/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day_1/inheritance/inheritance_start_point/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day_1/inheritance/inheritance_start_point/src/main/java/Instructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day_1/inheritance/inheritance_start_point/src/main/java/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day_1/inheritance/inheritance_start_point/src/test/java/InstructorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day_1/inheritance/inheritance_start_point/src/test/java/StudentTest.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Radio.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="18" column="43" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="43" />
+              <folding>
+                <element signature="e#95#96#0" expanded="true" />
+                <element signature="e#128#129#0" expanded="true" />
+                <element signature="e#185#186#0" expanded="true" />
+                <element signature="e#231#232#0" expanded="true" />
+                <element signature="e#268#269#0" expanded="true" />
+                <element signature="e#294#295#0" expanded="true" />
+                <element signature="e#330#331#0" expanded="true" />
+                <element signature="e#389#390#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/RadioTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#114#115#0" expanded="true" />
+                <element signature="e#148#149#0" expanded="true" />
+                <element signature="e#228#229#0" expanded="true" />
+                <element signature="e#248#249#0" expanded="true" />
+                <element signature="e#496#497#0" expanded="true" />
+                <element signature="e#526#527#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Component.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+              <folding>
+                <element signature="e#215#216#0" expanded="true" />
+                <element signature="e#242#243#0" expanded="true" />
+                <element signature="e#346#347#0" expanded="true" />
+                <element signature="e#374#375#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CDPlayer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+              <folding>
+                <element signature="e#296#297#0" expanded="true" />
+                <element signature="e#315#316#0" expanded="true" />
+                <element signature="e#381#382#0" expanded="true" />
+                <element signature="e#400#401#0" expanded="true" />
+                <element signature="e#481#482#0" expanded="true" />
+                <element signature="e#518#519#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/CDPlayerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="32" column="50" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#123#124#0" expanded="true" />
+                <element signature="e#163#164#0" expanded="true" />
+                <element signature="e#246#247#0" expanded="true" />
+                <element signature="e#267#268#0" expanded="true" />
+                <element signature="e#382#383#0" expanded="true" />
+                <element signature="e#412#413#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/IPlay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/Component.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Radio.java" />
+        <option value="$PROJECT_DIR$/src/main/java/IPlay.java" />
+        <option value="$PROJECT_DIR$/src/test/java/RadioTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CDPlayerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CDPlayer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SoundSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SoundSystem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SoundSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SoundSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SoundSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SoundSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SoundSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SoundSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SoundSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SoundSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SoundSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SoundSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560862839541" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.CDPlayerTest.canSelectCD">
+    <configuration name="CDPlayerTest.canGetModel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SoundSystem" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CDPlayerTest" />
+      <option name="METHOD_NAME" value="canGetModel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CDPlayerTest.canGetName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SoundSystem" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CDPlayerTest" />
+      <option name="METHOD_NAME" value="canGetName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CDPlayerTest.canInsertCD" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SoundSystem" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CDPlayerTest" />
+      <option name="METHOD_NAME" value="canInsertCD" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CDPlayerTest.canSelectCD" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SoundSystem" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CDPlayerTest" />
+      <option name="METHOD_NAME" value="canSelectCD" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RadioTest.canPlay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SoundSystem" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RadioTest" />
+      <option name="METHOD_NAME" value="canPlay" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CDPlayerTest.canSelectCD" />
+        <item itemvalue="JUnit.RadioTest.canPlay" />
+        <item itemvalue="JUnit.CDPlayerTest.canInsertCD" />
+        <item itemvalue="JUnit.CDPlayerTest.canGetModel" />
+        <item itemvalue="JUnit.CDPlayerTest.canGetName" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac9a4976-a088-4f25-b918-64f1a2516815" name="Default Changelist" comment="" />
+      <created>1560859278576</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560859278576</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="RadioTest_canGetStation - 2019.06.18 at 13h 12m 52s.xml">
+      <configuration name="RadioTest.canGetStation" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RadioTest_canSetStation - 2019.06.18 at 13h 14m 09s.xml">
+      <configuration name="RadioTest.canSetStation" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CDPlayerTest_canGetName - 2019.06.18 at 13h 32m 50s.xml">
+      <configuration name="CDPlayerTest.canGetName" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CDPlayerTest_canGetModel - 2019.06.18 at 13h 33m 48s.xml">
+      <configuration name="CDPlayerTest.canGetModel" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CDPlayerTest_canInsertCD - 2019.06.18 at 13h 37m 50s.xml">
+      <configuration name="CDPlayerTest.canInsertCD" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RadioTest_canPlay - 2019.06.18 at 13h 49m 11s.xml">
+      <configuration name="RadioTest.canPlay" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CDPlayerTest_canSelectCD - 2019.06.18 at 13h 56m 42s.xml">
+      <configuration name="CDPlayerTest.canSelectCD" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CDPlayerTest_canSelectCD - 2019.06.18 at 13h 57m 10s.xml">
+      <configuration name="CDPlayerTest.canSelectCD" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CDPlayerTest_canSelectCD - 2019.06.18 at 13h 57m 39s.xml">
+      <configuration name="CDPlayerTest.canSelectCD" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32891566" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/IPlay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/RadioTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Radio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="43" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="43" />
+          <folding>
+            <element signature="e#95#96#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CDPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+          <folding>
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CDPlayerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="32" column="50" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
